@@ -1,0 +1,53 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Roboto, sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+}
+
+.top {
+    display: flex;
+}
+
+.randominfo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+}
+
+.signup {
+    display: flex;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+}
+.info {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+    align-items: center;
+}
+img {
+    width:150px; 
+    height: auto; 
+    position:relative;
+    overflow:hidden;
+  }
